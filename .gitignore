@@ -61,3 +61,10 @@ TAGS
 # user-supplied scripts
 #
 /embed
+
+#
+# Allow config to be stored.
+#   Let's also share config for ready-to-go shipping for
+#   homework course.
+#
+!.config
